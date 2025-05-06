@@ -1,4 +1,6 @@
 # 📊 INX Future Inc. – Employee Performance Analysis
+## Project Code: 10281
+
 This project analyzes employee data from INX Future Inc., a global leader in data analytics and automation, to uncover the key factors affecting employee performance and provide actionable insights to the management.
 
 # 🔍 Objectives:
